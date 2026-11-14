@@ -74,3 +74,4 @@ public class ConverterAnonymousInner extends JFrame {
         SwingUtilities.invokeLater(() -> new ConverterAnonymousInner().setVisible(true));
     }
 }
+

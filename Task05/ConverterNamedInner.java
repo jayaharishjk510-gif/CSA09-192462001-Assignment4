@@ -76,3 +76,4 @@ public class ConverterNamedInner extends JFrame {
         SwingUtilities.invokeLater(() -> new ConverterNamedInner().setVisible(true));
     }
 }
+

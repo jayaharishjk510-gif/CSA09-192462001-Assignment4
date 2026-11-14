@@ -67,3 +67,4 @@ public class DrawPad extends Frame {
         new DrawPad().setVisible(true);
     }
 }
+

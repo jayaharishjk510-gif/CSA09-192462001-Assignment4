@@ -44,3 +44,4 @@ public class DatabaseConnection {
         return DriverManager.getConnection(DatabaseConfig.DB_URL, DatabaseConfig.DB_USER, DatabaseConfig.DB_PASSWORD);
     }
 }
+

@@ -7,12 +7,12 @@
 
 ### Student Identification
 - **Student Name:** [Student Name]
-- **Register Number:** [Register Number]
+- **Register Number:** 192462001
 - **Department:** Computer Science and Engineering
 - **Institution:** SIMATS Engineering, Saveetha Institute of Medical and Technical Sciences
 - **Java Platform / Version:** OpenJDK 21.0.12.1 (LTS) / Standard Java 17+ compatible
 - **Database System:** MySQL Community Server 8.0+ / Connector/J 8.0+
-- **GitHub Repository Link:** `https://github.com/SIMATS-Engineering/CSA09-[RegisterNumber]-Assignment4`
+- **GitHub Repository Link:** `https://github.com/SIMATS-Engineering/CSA09-192462001-Assignment4`
 
 ---
 
@@ -27,7 +27,7 @@ All six assigned tasks have been designed, coded, rigorously tested, and accompa
 ## 2. Repository Directory Structure
 
 ```text
-CSA09-RegisterNumber-Assignment4/
+CSA09-192462001-Assignment4/
 ├── .gitignore
 ├── README.md
 ├── Task01/
@@ -108,7 +108,7 @@ Ensure JDK 17 or higher is installed and available on your system path.
 ### Task 1: Fee Payment Window
 ```bash
 # Navigate to repository root
-cd CSA09-RegisterNumber-Assignment4
+cd CSA09-192462001-Assignment4
 
 # Compile Task 1 classes
 javac -d Task01 Task01/FeeService.java Task01/FeeWindow.java
@@ -228,3 +228,4 @@ git commit -m "docs: finalize comprehensive README and submission documentation"
 
 ---
 *Developed strictly in accordance with SIMATS Engineering Academic Standards and Guidelines.*
+

@@ -47,3 +47,4 @@ INSERT INTO event_registrations (student_id, student_name, email, department, ev
 
 -- Verification Query
 SELECT * FROM event_registrations;
+

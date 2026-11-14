@@ -265,3 +265,4 @@ public class RegistrationFormPanel extends JPanel {
         worker.execute();
     }
 }
+

@@ -60,3 +60,4 @@ public class Registration {
         return String.format("[%d] %s (%s) - %s [%s]", registrationId, studentName, studentId, eventName, department);
     }
 }
+

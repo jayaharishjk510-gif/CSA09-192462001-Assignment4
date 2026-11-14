@@ -71,3 +71,4 @@ public class ConverterLambda extends JFrame {
         SwingUtilities.invokeLater(() -> new ConverterLambda().setVisible(true));
     }
 }
+

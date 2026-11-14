@@ -296,3 +296,4 @@ public class HospitalAppointmentDesk extends JFrame {
         SwingUtilities.invokeLater(() -> new HospitalAppointmentDesk().setVisible(true));
     }
 }
+

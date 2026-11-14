@@ -9,3 +9,4 @@ public class DatabaseConfig {
     public static final String DB_USER = "root";
     public static final String DB_PASSWORD = "root"; // adjust to local environment password
 }
+

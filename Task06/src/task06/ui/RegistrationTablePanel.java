@@ -241,3 +241,4 @@ public class RegistrationTablePanel extends JPanel {
         }
     }
 }
+

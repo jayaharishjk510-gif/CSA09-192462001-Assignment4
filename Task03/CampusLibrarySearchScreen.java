@@ -172,3 +172,4 @@ public class CampusLibrarySearchScreen extends JFrame {
         SwingUtilities.invokeLater(() -> new CampusLibrarySearchScreen().setVisible(true));
     }
 }
+

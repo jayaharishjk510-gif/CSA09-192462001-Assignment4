@@ -8,3 +8,4 @@ public class DuplicateRegistrationException extends Exception {
         super(message);
     }
 }
+
